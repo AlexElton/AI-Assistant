@@ -7,3 +7,11 @@ vector_db/
 
 # OS files
 .DS_Store
+venv/
+nltk_data/
+.env
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+
