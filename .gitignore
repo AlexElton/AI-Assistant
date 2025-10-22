@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+venv/
+
+# App data
+vector_db/
+
+# OS files
+.DS_Store
